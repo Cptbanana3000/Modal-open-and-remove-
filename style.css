@@ -1,0 +1,19 @@
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #container {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 0.5rem;
+    width: 50%;
+    margin: 2rem auto;
+  }
+  
+  #container.dark {
+    background-color: #333;
+    color: #f0f0f0;
+    border-color: #444;
+  }
